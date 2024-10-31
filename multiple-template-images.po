@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multiple Template Images\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-25 05:47+0100\n"
+"PO-Revision-Date: 2010-09-25 05:56+0100\n"
+"Last-Translator: Bas van Doren <basvdoren@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: multiple-template-images.php:126
+#: multiple-template-images.php:127
+msgid "Template Images"
+msgstr "Template Images"
+
+#: multiple-template-images.php:191
+#, php-format
+msgid "Error while uploading <strong>%s</strong>. <em>%s</em>"
+msgstr "Fout bij uploaden van <strong>%s</strong>. <em>%s</em>"
+
+#: multiple-template-images.php:197
+#, php-format
+msgid "Error while uploading <strong>%s</strong>. <em>The file is not a GIF, JPEG or PNG image.</em>"
+msgstr "Fout bij uploaden van <strong>%s</strong>. <em>Het bestand is geen GIF, JPEG of PNG afbeelding.</em>"
+
+#: multiple-template-images.php:211
+#, php-format
+msgid "<strong>%s</strong> uploaded successfully!"
+msgstr "<strong>%s</strong> is geupload!"
+
+#: multiple-template-images.php:216
+#, php-format
+msgid "Error while uploading <strong>%s</strong>. <em>The file was saved to an unexpected location and has been removed.</em>"
+msgstr "Fout bij uploaden van <strong>%s</strong>. <em>Het bestand stond op de verkeerde plek en is verwijderd.</em>"
+
+#: multiple-template-images.php:498
+msgid "Remove this image."
+msgstr "Deze afbeelding verwijderen."
+
+#: multiple-template-images.php:504
+msgid "Choose an image:"
+msgstr "Kies een afbeelding:"
+
